@@ -20,6 +20,6 @@ npx hardhat run scripts/deploy.js --network calibration
 ```
 
 ## Links
-- [Calibration Faucet](https://faucet.calibration.fildev.network/)
-- [FEVM Docs](https://docs.filecoin.io/smart-contracts/ethereum/)
+- [Calibration Faucet](https://faucet.calibnet.chainsafe-fil.io//)
+- [FEVM Docs](https://docs.filecoin.io/smart-contracts/fundamentals/the-fvm/)
 - [Filfox Explorer](https://calibration.filfox.info/en)
