@@ -6,7 +6,7 @@ A minimal Hardhat project to deploy Solidity smart contracts to the Filecoin Vir
 
 ```bash
 git clone https://github.com/temi0x/fevm-bootcamp
-cd fevm-starter
+cd fevm-bootcamp
 cp .env.example .env
 # Add your PRIVATE_KEY to .env
 npm install
